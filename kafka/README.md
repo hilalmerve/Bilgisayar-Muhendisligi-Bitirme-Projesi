@@ -1,5 +1,5 @@
 # Apache Kafka 
-· **Kafka Producer ve Consumer NodeJS teknolojisi ile gerçekleştirilmiştir**. Bir web uygulaması üzerinden Producer ve Consumer işlemleri yapılmıştır.
+· **Projede Kafka Producer ve Consumer NodeJS teknolojisi ile gerçekleştirilmiştir**. Bir web uygulaması üzerinden Producer ve Consumer işlemleri yapılmıştır.
 
 ## Apache Kafka Kurulumu İçin Yapılması Gerekenler
 · Docker teknolojisinin Windows üzerinde çalışabilmesi için https://www.confluent.io/blog/set-up-and-run-kafka-on-windows-linux-wsl-2/ adresinde tarif edildiği gibi Windows Subsystem for Linux (WSL2) kurulur.\
