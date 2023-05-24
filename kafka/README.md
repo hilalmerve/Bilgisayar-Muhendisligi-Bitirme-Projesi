@@ -14,7 +14,9 @@
 \
 ·	Yine aynı komut ekranına 'docker-compose ps' yazılarak compose dosyasındaki servisler çalıştırılır.\
 \
-·	Kafka işlemlerinin bir arayüzde görülmesi için Control Center sayfasını çalıştırabilmek için aynı komut ekranına 'docker-compose restart control-center' yazılır ve Kafka üzerinde yapılan işlemler localhost:9021 no'lu portta çalışan Control Center sayfasında görülür.
+·	Kafka işlemlerinin bir arayüzde görülmesi için Control Center sayfasını çalıştırabilmek için aynı komut ekranına 'docker-compose restart control-center' yazılır ve Kafka üzerinde yapılan işlemler localhost:9021 no'lu portta çalışan Control Center sayfasında görülür.\
+\
+·	Kafka'nın çalışmasının durdurulması için komut ekranına 'docker-compose stop' yazılmalıdır.
 
 ## VSCode NodeJS Projesi Oluşturmak İçin Yapılması Gerekenler
 · Visual Studio Code indirilir.\
