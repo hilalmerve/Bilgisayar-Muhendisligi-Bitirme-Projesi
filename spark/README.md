@@ -39,4 +39,6 @@
 \
 ·	Sanal ortamı aktifleştirmek için '.\env\Scripts\activate' ifadesi yazılmalıdır.\
 \
-·	Daha sonra proje çalıştırılır.
+·	Daha sonra proje çalıştırılır.\
+\
+·	Sanal ortamdan çıkılması için 'deactivate' yazılmalıdır.
